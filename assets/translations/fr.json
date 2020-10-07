@@ -1,0 +1,6 @@
+{
+	"instruction.one": "Vous avez appuyé sur le bouton une seule fois.",
+	"instruction.other": "Vous avez appuyé sur ce bouton ce nombre de fois:",
+	"instruction.zero": "Vous n'avez pas appuyé sur le bouton.",
+	"title": "Accueil"
+}
